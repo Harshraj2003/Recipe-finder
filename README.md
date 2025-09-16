@@ -8,8 +8,6 @@ A full-stack MERN application that allows users to search for recipes from a vas
 
 ## About The Project
 
-![Recipe Finder Screenshot](assets/screenshot.png)
-
 *Replace the placeholder image above with a screenshot of your application!*
 
 Recipe Finder is more than just a search tool; it's a personalized digital cookbook. In a world full of recipe websites cluttered with ads and complex user interfaces, this application provides a clean, focused, and user-centric experience. Users can instantly search for thousands of recipes from TheMealDB API, view detailed instructions and ingredients, and create a personal account to curate their own collection of favorites.
@@ -64,7 +62,7 @@ You need to have the following software installed on your machine:
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/Harshraj2003/Recipe-finder.git
-    cd your-repo-name
+    cd Recipe-finder
     ```
 
 2.  **Setup the Backend:**
