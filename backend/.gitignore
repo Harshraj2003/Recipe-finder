@@ -1,0 +1,5 @@
+# Dependencies - these can be reinstalled from package.json
+/node_modules
+
+# Environment variables file - contains secrets!
+.env
