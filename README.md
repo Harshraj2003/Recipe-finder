@@ -8,8 +8,6 @@ A full-stack MERN application that allows users to search for recipes from a vas
 
 ## About The Project
 
-*Replace the placeholder image above with a screenshot of your application!*
-
 Recipe Finder is more than just a search tool; it's a personalized digital cookbook. In a world full of recipe websites cluttered with ads and complex user interfaces, this application provides a clean, focused, and user-centric experience. Users can instantly search for thousands of recipes from TheMealDB API, view detailed instructions and ingredients, and create a personal account to curate their own collection of favorites.
 
 The real power comes from the personalization features. Logged-in users can not only save recipes but also add their own personal notes—perfect for tracking modifications, substitutions, or cooking tips. This project was built from the ground up to demonstrate a full mastery of the MERN stack, including secure user authentication with JWT, a custom-themed and responsive UI with Material-UI, and a well-structured RESTful API.
