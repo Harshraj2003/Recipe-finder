@@ -107,6 +107,6 @@ You need to have the following software installed on your machine:
 
 ## Contact
 
-Your Name - [harshrajraj2003.com](mailto:harshrajraj2003@gmail.com)
+Your Name - [Harsh Raj](mailto:harshrajraj2003@gmail.com)
 
 Project Link: [https://github.com/Harshraj2003](https://github.com/Harshraj2003/Recipe-finder)
